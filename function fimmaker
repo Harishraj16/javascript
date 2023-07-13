@@ -1,0 +1,10 @@
+function filmaker(movie_name,director)
+{
+    if(director)
+    console.log(movie_name+' is directed by '+director);
+    else
+    console.log(movie_name)
+}
+
+var movie= filmaker("'ka ka po'");
+console.log(movie);
