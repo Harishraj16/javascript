@@ -19,7 +19,7 @@
        3. program stack
        4. control stack
        5. runtime stack
-       6. machine stack
+       6. machine stack.
 ![2  how javascript is executed](https://github.com/Harishraj16/javascript/assets/97356861/8e55b979-73e3-4dcd-8e77-75e870a3d0a3)
 
 3. Hoisting in Javascript
